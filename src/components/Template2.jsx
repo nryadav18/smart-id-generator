@@ -71,8 +71,8 @@ const Template2 = ({ studentData, qrCodeData }) => {
           <p>Route: {studentData.busRouteNumber.split(":")[1]}</p>
         </div>
         <div className="footer-right">
-          <p>Valid until: May 31, 2024</p>
-          <p>Emergency: +1 (555) 123-4567</p>
+          <p>Valid until: May 31, 2026</p>
+          <p>Emergency: +108</p>
         </div>
       </div>
     </div>
