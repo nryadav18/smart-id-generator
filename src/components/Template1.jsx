@@ -70,8 +70,8 @@ const Template1 = ({ studentData, qrCodeData }) => {
       </div>
 
       <div className="card-footer">
-        <p>This card is the property of Unity School. If found, please return to the school office.</p>
-        <p>Valid for Academic Year 2023-2024</p>
+        <p>This card is the property of Unity School. If found, please return to the Unity school office.</p>
+        <p>Valid for Academic Year 2025-2026</p>
       </div>
     </div>
   )
