@@ -4,10 +4,13 @@ A React.js application that allows users to generate student ID cards with custo
 
 ## 🎬 Website Demo
 
-  <img src="./outputs/1.png" width="100%" />
-  <img src="./outputs/2.png" width="100%" />
-  <img src="./outputs/3.png" width="100%" />
-  <img src="./outputs/4.png" width="100%" />
+<img src="./outputs/1.png" width="100%" />
+
+<p align="center">
+  <img src="./outputs/2.png" width="30%" style="margin: 150px;" />
+  <img src="./outputs/3.png" width="30%" style="margin: 150px;" />
+  <img src="./outputs/4.png" width="30%" style="margin: 150px;" />
+</p>
 
 ---
 
