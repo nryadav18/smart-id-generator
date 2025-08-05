@@ -2,6 +2,15 @@
 
 A React.js application that allows users to generate student ID cards with customizable templates.
 
+## 🎬 Website Demo
+
+  <img src="./outputs/1.png" width="100%" />
+  <img src="./outputs/2.png" width="100%" />
+  <img src="./outputs/3.png" width="100%" />
+  <img src="./outputs/4.png" width="100%" />
+
+---
+
 ## Features
 
 - **Student Data Form**: Capture student information including name, roll number, class & division, allergies, photo, rack number, and bus route.
